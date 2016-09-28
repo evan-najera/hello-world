@@ -1,26 +1,56 @@
 <!DOCTYPE html>
 <html>
     <head>
-        	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-		<title></title>
-	</head>
-	<body>
-        <div id="header">
-			<p id="evan">Evelyn Najera</p>
-			<a href="Dank memes"><p id="email">Dank Memes</p></a>
-		</div>
-		<div class="left"></div>
-		<div class="right">
-			<h4>Dank Memes history</h4>
-			<p>Memes have been around for so long for the enjoyment of everyone. It could be an innocent meme that you would show your grandma or it could be a meme that you know you shouldn't be laughing at but do anyway. Very loudly.</p>
-			<h4>Modern Day Dank Memes</h4>
-			<p>Anything can become a meme. You have an ugly crying face? Meme. You were caught lacking by friends? meme. No one is safe not even celebrities or the president.</p
-        	<img src="http://cdn.smosh.com/sites/default/files/2016/04/krabs-meme-fb.jpg">
-  <ul class="nav nav-tabs">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <link type="text/css" rel="stylesheet" href="style.css"/>
+        <title></title>
+    </head>
+    <body>
+        <ul class="nav nav-tabs">
   <li role="presentation" class="active"><a href="#">Home</a></li>
   <li role="presentation"><a href="#">Profile</a></li>
   <li role="presentation"><a href="#">Messages</a></li>
 </ul>
+        <div id="dank">
+            <p id="evan">Dank Memes</p>
+            <a href="cdn.smosh.com/sites/default/files/2014/11/2000s-slang-sheezy.jpg"><p id="harambe">By Evelyn Najera</p></a>
+        </div>
+        <div class="bill"></div>
+        <div class="nye">
+            <h4>Dank Meme history</h4>
+            <p>Dank memes have been around for a long time for the enjoyment of everyone. It could be an innocent meme that you would show your grandma or it could be a meme that you know you shouldn't be laughing at, but do anyway. Very loudly</p>
+            <h4>Dank?</h4>
+            <p>The word dank is actually 90's slang meaning awesome. But since not many people know this they think "dank memes" mean "bad memes". For example if you show someone a meme and they go "omg that's so dank" while having a face of unpleasantness then they are using the word dank wrong. At least it's not as bad other 90's slang like</p>
+            <ul>
+                <li>I'm all that and a bag of chips</li>
+                <li>you're a wet sock</li>
+                <img src="http://www.quickmeme.com/img/5a/5a41f670c99ad3e89bb472705001ca084951fca525d6b0a20a48d7d0e481226c.jpg">
+            </ul>
+            <h4>Meme Royalty</h4>
+            <p>One of the kings of memes is someone we all know. Harambe. Harambe sparked a whole set of memes when a child fell into the gorilla enclosure and harambe was shot for the child's "protection". His memes are still being used to this day. </p>
+            <img src="https://s3.amazonaws.com/hiphopdx-production/2016/06/HarambeCavemanSB1.jpg">
+            <p>Another meme king we would send to everyone was the Mr. Krabs blurry picture which was quickly replaced with the spongebob caveman picture. Sadly this happens all the time with new popular memes that are pulled from tv shows. There will always be a better and funnier picture to use in a meme.</p>
+            <img src="http://cdn.smosh.com/sites/default/files/2016/04/krabs-meme-fb.jpg">
+            <img src="http://i0.kym-cdn.com/photos/images/newsfeed/001/126/459/3c6.jpg">
+            <h4>Random Memes that don't make sense</h4>
+            <p>Most memes make sense or are relatable in a way but some are purposefully outrageous and impossible so it's funnier because they act like everyone does the same thing. For example...</p>
+            <ul>
+                <img src="http://www.relatably.com/m/img/relatable-memes/38e5Funniest-relatable-memes-04.jpg">
+                <li></li>
+            </ul>
+        </div>
+            <p>Memes are used in our everyday lives, without memes we are nothing.</p>
+        <div id="footer"></div>
+        </div>
+    </body>
+</html>
         	
 				
 	
