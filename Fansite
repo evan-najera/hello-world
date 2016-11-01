@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -53,5 +54,6 @@
         </div>
             <p>Memes are used in our everyday lives, without memes we are nothing.</p>
         <div id="footer"></div>
+         <script type= /js/filename.js src='script.js'></script>
     </body>
 </html>
